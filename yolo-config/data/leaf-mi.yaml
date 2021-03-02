@@ -1,5 +1,5 @@
-train: ../leaf-mi/images/train/
-val: ../leaf-mi/images/test/
+train: /content/leaf-mi/images/train/
+val: /content/leaf-mi/images/test/
 
 # number of classes
 nc: 4
