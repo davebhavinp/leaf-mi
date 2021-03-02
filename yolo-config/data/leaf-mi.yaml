@@ -1,0 +1,12 @@
+train: ../leaf-mi/images/train/
+val: ../leaf-mi/images/test/
+
+# number of classes
+nc: 4
+
+# class names
+names: [
+'PET Bottle',
+'PVC Label',
+'HDPE Cap',
+'HDPE Ring' ]
