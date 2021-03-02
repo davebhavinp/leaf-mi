@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PET</folder>
+	<filename>istockphoto-157616664-612x612.jpg</filename>
+	<path>/Users/bdave/git/leaf-material-identification/images/source/PET/istockphoto-157616664-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PET Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>82</ymin>
+			<xmax>538</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

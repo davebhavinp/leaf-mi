@@ -1,0 +1,38 @@
+<annotation>
+	<folder>PET</folder>
+	<filename>images46.jpg</filename>
+	<path>/Users/bdave/git/leaf-material-identification/images/source/PET/images46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PET Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>51</ymin>
+			<xmax>279</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HDPE Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>61</ymin>
+			<xmax>276</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>
